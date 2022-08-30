@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cinnamenu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-15 12:39+0100\n"
+"PO-Revision-Date: 2020-07-15 12:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+
+#: 3.2/applet.js:92 4.0/applet.js:40
+msgid "Type to search..."
+msgstr "Suchbegriff eingeben …"
+
+#: 3.2/applet.js:157 4.0/applet.js:50
+msgid "Initializing"
+msgstr "Initialisiere"
+
+#: 3.2/applet.js:284 4.0/buttons.js:26
+msgid "No description available"
+msgstr "Keine Beschreibung verfügbar"
+
+#: 3.2/applet.js:977 4.0/applet.js:715
+msgid "All Applications"
+msgstr "Alle Anwendungen"
+
+#: 3.2/applet.js:1015 4.0/applet.js:756
+msgid "Places"
+msgstr "Orte"
+
+#: 3.2/applet.js:1016 4.0/applet.js:757
+msgid "Recent Files"
+msgstr "Zuletzt verwendete Dateien"
+
+#: 3.2/applet.js:1017 4.0/applet.js:758
+msgid "Bookmarks"
+msgstr "Lesezeichen"
+
+#: 3.2/applet.js:1018 4.0/applet.js:759
+msgid "Favorite Apps"
+msgstr "Favoriten"
+
+#: 3.2/applet.js:1351 4.0/applet.js:1072
+msgid "gir1.2-gda-5.0 package required for Firefox and Midori bookmarks."
+msgstr "gir1.2-gda-5.0 Paket für Firefox und Midori Lesezeichen erforderlich."
+
+#: 3.2/applet.js:1415 4.0/applet.js:1121
+msgid "Clear List"
+msgstr "Liste Leeren"
+
+#: 3.2/applet.js:1426 4.0/applet.js:1128
+msgid "No recent documents"
+msgstr "Keine kürzlich verwendeten Dokumente"
+
+#: 3.2/applet.js:2278
+msgid "Account details"
+msgstr "Konto-Informationen"
+
+#: 3.2/applet.js:2285 3.2/buttons.js:1260
+msgid "Grid View"
+msgstr "Rasteransicht"
+
+#: 3.2/applet.js:2285 3.2/buttons.js:1254
+msgid "List View"
+msgstr "Listenansicht"
+
+#: 3.2/applet.js:2286 3.2/buttons.js:1261
+msgid "Switch to grid view"
+msgstr "Zur Rasteransicht wechseln"
+
+#: 3.2/applet.js:2286 3.2/buttons.js:1255
+msgid "Switch to list view"
+msgstr "Zur Listenansicht wechseln"
+
+#: 3.2/applet.js:2292 4.0/applet.js:2092
+msgid "Lock Screen"
+msgstr "Bildschirm sperren"
+
+#: 3.2/applet.js:2293 4.0/applet.js:2093
+msgid "Lock the screen"
+msgstr "Diesen Bildschirm sperren"
+
+#: 3.2/applet.js:2314 4.0/applet.js:2108
+msgid "Logout"
+msgstr "Abmelden"
+
+#: 3.2/applet.js:2315 4.0/applet.js:2109
+msgid "Leave the session"
+msgstr "Sitzung verlassen"
+
+#: 3.2/applet.js:2322 4.0/applet.js:2112
+msgid "Quit"
+msgstr "Beenden"
+
+#: 3.2/applet.js:2323 4.0/applet.js:2113
+msgid "Shutdown the computer"
+msgstr "Den Rechner herunterfahren"
+
+#: 3.2/placeDisplay.js:146 4.0/placeDisplay.js:102
+msgid "Home"
+msgstr "Persönlicher Ordner"
+
+#: 3.2/placeDisplay.js:220 4.0/placeDisplay.js:144
+msgid "Computer"
+msgstr "Rechner"
+
+#: 3.2/placeDisplay.js:224 4.0/placeDisplay.js:146
+msgid "Browse network"
+msgstr "Netzwerk durchsuchen"
+
+#: 3.2/buttons.js:1045 3.2/buttons.js:1047 4.0/buttons.js:836
+#: 4.0/buttons.js:839
+msgid "Run with NVIDIA GPU"
+msgstr "Mit NVIDIA-GPU ausführen"
+
+#: 3.2/buttons.js:1049 4.0/buttons.js:842
+msgid "Add to panel"
+msgstr "Zur Leiste hinzufügen"
+
+#: 3.2/buttons.js:1051 4.0/buttons.js:845
+msgid "Add to desktop"
+msgstr "Zum Schreibtisch hinzufügen"
+
+#: 3.2/buttons.js:1054 4.0/buttons.js:849
+msgid "Remove favorite"
+msgstr "Favorit entfernen"
+
+#: 3.2/buttons.js:1056 4.0/buttons.js:852
+msgid "Add to favorites"
+msgstr "Zu den Favoriten hinzufügen"
+
+#: 3.2/buttons.js:1059 4.0/buttons.js:856
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+#: 4.0/applet.js:233 4.0/applet.js:1230
+msgid "Please wait..."
+msgstr "Warten Sie mal..."
+
+#. metadata.json->name
+#. 3.2->settings-schema.json->cinnamenuProvidersSection->title
+msgid "Cinnamenu"
+msgstr "Cinnamenü"
+
+#. metadata.json->description
+msgid ""
+"A flexible menu providing formatting options, web bookmarks, search provider "
+"support and fuzzy searching."
+msgstr ""
+"Ein flexibles Menü mit Formatierungsoptionen, Web-Lesezeichen, Unterstützung "
+"für Suchanbieter und Fuzzy-Suche."
+
+#. metadata.json->comments
+msgid ""
+"Made possible thanks to the efforts of contributors to the Cinnamon menu, "
+"Gnomenu, and the contributors to projects they derived from."
+msgstr ""
+"Möglich wurde dies durch die Bemühungen der Mitwirkenden am Zimtmenü Gnomenu "
+"und der Mitwirkenden an Projekten, aus denen sie abgeleitet wurden."
+
+#. 3.2->settings-schema.json->panel->title
+#. 4.0->settings-schema.json->behaviour->title
+msgid "Behavior"
+msgstr "Verhalten"
+
+#. 3.2->settings-schema.json->appearance->title
+#. 4.0->settings-schema.json->appearance->title
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+#. 3.2->settings-schema.json->menu->title
+#. 4.0->settings-schema.json->layout->title
+msgid "Layout and Content"
+msgstr "Layout und Inhalt"
+
+#. 3.2->settings-schema.json->providers->title
+msgid "Search Providers"
+msgstr "Anbieter suchen"
+
+#. 3.2->settings-schema.json->extensionProvidersSection->title
+msgid "No search provider extensions found"
+msgstr "Es wurden keine Suchanbietererweiterungen gefunden"
+
+#. 3.2->settings-schema.json->panel-appear->title
+#. 3.2->settings-schema.json->panel-behave->title
+#. 4.0->settings-schema.json->panel-behave->title
+#. 4.0->settings-schema.json->panel-appear->title
+msgid "Panel"
+msgstr "Leiste"
+
+#. 3.2->settings-schema.json->menu-behave->title
+#. 3.2->settings-schema.json->menu-icons->title
+#. 4.0->settings-schema.json->menu-icons->title
+msgid "Menu"
+msgstr "Menü"
+
+#. 3.2->settings-schema.json->menu-layout->title
+#. 4.0->settings-schema.json->menu-layout->title
+msgid "Layout"
+msgstr "Layout"
+
+#. 3.2->settings-schema.json->menu-content->title
+#. 4.0->settings-schema.json->menu-content->title
+msgid "Content"
+msgstr "Inhalt"
+
+#. 3.2->settings-schema.json->privacy-settings-button->description
+#. 4.0->settings-schema.json->privacy-settings-button->description
+msgid "Recent files settings"
+msgstr "Einstellungen für die letzten Dateien"
+
+#. 3.2->settings-schema.json->menu-editor-button->description
+#. 4.0->settings-schema.json->menu-editor-button->description
+msgid "Open the menu editor"
+msgstr "Menüeditor öffnen"
+
+#. 3.2->settings-schema.json->resetCategoryOrder-button->description
+#. 4.0->settings-schema.json->resetCategoryOrder-button->description
+msgid "Reset category order"
+msgstr "Kategoriereihenfolge zurücksetzen"
+
+#. 3.2->settings-schema.json->menu-icon-custom->description
+#. 4.0->settings-schema.json->menu-icon-custom->description
+msgid "Use a custom icon"
+msgstr "Ein benutzerdefiniertes Symbol verwenden"
+
+#. 3.2->settings-schema.json->menu-icon-custom->tooltip
+#. 4.0->settings-schema.json->menu-icon-custom->tooltip
+msgid "Use a custom icon in the panel"
+msgstr "Verwenden Sie ein benutzerdefiniertes Symbol im Bedienfeld"
+
+#. 3.2->settings-schema.json->menu-icon->description
+#. 3.2->settings-schema.json->menu-icon->tooltip
+#. 4.0->settings-schema.json->menu-icon->description
+#. 4.0->settings-schema.json->menu-icon->tooltip
+msgid "Panel icon"
+msgstr "Bedienfeldsymbol"
+
+#. 3.2->settings-schema.json->menu-label->description
+#. 4.0->settings-schema.json->menu-label->description
+msgid "Panel text"
+msgstr "Panel-Text"
+
+#. 3.2->settings-schema.json->menu-label->tooltip
+#. 4.0->settings-schema.json->menu-label->tooltip
+msgid "Text to show beside the panel icon"
+msgstr "Text, der neben dem Bedienfeldsymbol angezeigt werden soll"
+
+#. 3.2->settings-schema.json->category-icon-size->units
+#. 3.2->settings-schema.json->apps-list-icon-size->units
+#. 3.2->settings-schema.json->apps-grid-icon-size->units
+#. 4.0->settings-schema.json->category-icon-size->units
+#. 4.0->settings-schema.json->apps-list-icon-size->units
+#. 4.0->settings-schema.json->apps-grid-icon-size->units
+msgid "pixels"
+msgstr "pixels"
+
+#. 3.2->settings-schema.json->category-icon-size->description
+#. 3.2->settings-schema.json->category-icon-size->tooltip
+#. 4.0->settings-schema.json->category-icon-size->description
+#. 4.0->settings-schema.json->category-icon-size->tooltip
+msgid "Category icon size"
+msgstr "Größe der Kategoriesymbole"
+
+#. 3.2->settings-schema.json->apps-list-icon-size->description
+#. 3.2->settings-schema.json->apps-list-icon-size->tooltip
+#. 4.0->settings-schema.json->apps-list-icon-size->description
+#. 4.0->settings-schema.json->apps-list-icon-size->tooltip
+msgid "Applications list icon size"
+msgstr "Größe der Anwendungssymbole in der Listenansicht"
+
+#. 3.2->settings-schema.json->apps-grid-icon-size->description
+#. 3.2->settings-schema.json->apps-grid-icon-size->tooltip
+#. 4.0->settings-schema.json->apps-grid-icon-size->description
+#. 4.0->settings-schema.json->apps-grid-icon-size->tooltip
+msgid "Applications grid icon size"
+msgstr "Größe der Anwendungssymbole in der Rasteransicht"
+
+#. 3.2->settings-schema.json->overlay-key->description
+#. 4.0->settings-schema.json->overlay-key->description
+msgid "Keyboard shortcut to open and close the menu"
+msgstr "Tastenkombinationen zum Öffnen und Schließen des Menüs"
+
+#. 3.2->settings-schema.json->activate-on-hover->description
+#. 4.0->settings-schema.json->activate-on-hover->description
+msgid "Open menu on hover"
+msgstr "Öffnen Sie das Menü beim Hover"
+
+#. 3.2->settings-schema.json->activate-on-hover->tooltip
+#. 4.0->settings-schema.json->activate-on-hover->tooltip
+msgid "Open the menu when I move my mouse over the panel icon"
+msgstr ""
+"Öffnen Sie das Menü, wenn Sie mit der Maus über das Bedienfeldsymbol fahren"
+
+#. 3.2->settings-schema.json->hover-delay->units
+#. 3.2->settings-schema.json->tooltip-delay->units
+#. 4.0->settings-schema.json->hover-delay->units
+msgid "milliseconds"
+msgstr "Millisekunden"
+
+#. 3.2->settings-schema.json->hover-delay->description
+#. 4.0->settings-schema.json->hover-delay->description
+msgid "Menu hover delay"
+msgstr "Verzögerung beim Schweben des Menüs"
+
+#. 3.2->settings-schema.json->enable-animation->description
+#. 4.0->settings-schema.json->enable-animation->description
+msgid "Use menu animations"
+msgstr "Menüanimationen verwenden"
+
+#. 3.2->settings-schema.json->enable-animation->tooltip
+#. 4.0->settings-schema.json->enable-animation->tooltip
+msgid "Animate the menu on open and close"
+msgstr "Animieren Sie das Menü beim Öffnen und Schließen"
+
+#. 3.2->settings-schema.json->category-click->description
+#. 4.0->settings-schema.json->category-click->description
+msgid "Activate categories on click"
+msgstr "Kategorien durch Maus-Klick aktivieren"
+
+#. 3.2->settings-schema.json->category-click->tooltip
+#. 4.0->settings-schema.json->category-click->tooltip
+msgid "Activate categories on click instead of on hover"
+msgstr "Aktivieren Sie Kategorien beim Klicken statt beim Schweben"
+
+#. 3.2->settings-schema.json->enable-autoscroll->description
+#. 4.0->settings-schema.json->enable-autoscroll->description
+msgid "Enable autoscrolling"
+msgstr "Aktivieren Sie das automatische Scrollen"
+
+#. 3.2->settings-schema.json->enable-autoscroll->tooltip
+#. 4.0->settings-schema.json->enable-autoscroll->tooltip
+msgid "Enable autoscrolling in application list"
+msgstr "Automatischen Bildlauf in der Anwendungsliste aktivieren"
+
+#. 3.2->settings-schema.json->enable-bookmarks->description
+#. 4.0->settings-schema.json->enable-bookmarks->description
+msgid "Show web bookmarks"
+msgstr "Web-Lesezeichen anzeigen"
+
+#. 3.2->settings-schema.json->enable-bookmarks->tooltip
+#. 4.0->settings-schema.json->enable-bookmarks->tooltip
+msgid "Show your browser's web bookmarks in the menu"
+msgstr "Zeigen Sie die Web-Lesezeichen Ihres Browsers im Menü an"
+
+#. 3.2->settings-schema.json->enable-windows->description
+msgid "Enable searching of open windows"
+msgstr "Suche nach offenen Fenstern aktivieren"
+
+#. 3.2->settings-schema.json->enable-search-providers->description
+#. 4.0->settings-schema.json->enable-search-providers->description
+msgid "Enable search providers"
+msgstr "Suchanbieter aktivieren"
+
+#. 3.2->settings-schema.json->enable-search-providers->tooltip
+#. 4.0->settings-schema.json->enable-search-providers->tooltip
+msgid "Include search provider results in searches"
+msgstr ""
+"Wählen Sie aus, ob die Ergebnisse des Suchanbieters in der Menüsuche "
+"indiziert werden sollen"
+
+#. 3.2->settings-schema.json->get-providers->description
+#. 4.0->settings-schema.json->get-providers->description
+msgid "Example Search Providers"
+msgstr "Beispiel für Suchanbieter"
+
+#. 3.2->settings-schema.json->startup-view-mode->description
+#. 3.2->settings-schema.json->startup-view-mode->tooltip
+msgid "Startup applications view mode"
+msgstr "Ansichtsmodus der Anwendungen beim Start"
+
+#. 3.2->settings-schema.json->startup-view-mode->options
+#. 4.0->settings-schema.json->applications-view-mode->options
+msgid "List"
+msgstr "Liste"
+
+#. 3.2->settings-schema.json->startup-view-mode->options
+#. 4.0->settings-schema.json->applications-view-mode->options
+msgid "Grid"
+msgstr "Raster"
+
+#. 3.2->settings-schema.json->apps-grid-column-count->units
+#. 4.0->settings-schema.json->apps-grid-column-count->units
+msgid "columns"
+msgstr "Spalten"
+
+#. 3.2->settings-schema.json->apps-grid-column-count->description
+#. 3.2->settings-schema.json->apps-grid-column-count->tooltip
+#. 4.0->settings-schema.json->apps-grid-column-count->description
+#. 4.0->settings-schema.json->apps-grid-column-count->tooltip
+msgid "Number of columns in apps grid"
+msgstr "Anzahl der Spalten im Anwendungsraster"
+
+#. 3.2->settings-schema.json->show-places->description
+#. 4.0->settings-schema.json->show-places->description
+msgid "Show bookmarks and places"
+msgstr "Lesezeichen und Orte anzeigen"
+
+#. 3.2->settings-schema.json->show-places->tooltip
+#. 4.0->settings-schema.json->show-places->tooltip
+msgid "Show bookmarks and places category in the menu"
+msgstr "Lesezeichen und Ortskategorie im Menü anzeigen"
+
+#. 3.2->settings-schema.json->show-application-icons->description
+#. 3.2->settings-schema.json->show-application-icons->tooltip
+#. 4.0->settings-schema.json->show-application-icons->description
+#. 4.0->settings-schema.json->show-application-icons->tooltip
+msgid "Show application icons"
+msgstr "Anwendungssymbole anzeigen"
+
+#. 3.2->settings-schema.json->show-category-icons->description
+#. 3.2->settings-schema.json->show-category-icons->tooltip
+#. 4.0->settings-schema.json->show-category-icons->description
+#. 4.0->settings-schema.json->show-category-icons->tooltip
+msgid "Show category icons"
+msgstr "Kategoriesymbole anzeigen"
+
+#. 3.2->settings-schema.json->show-apps-description-on-buttons->description
+#. 3.2->settings-schema.json->show-apps-description-on-buttons->tooltip
+msgid "Show application descriptions under titles"
+msgstr "Beschreibung der Anwendung unter Anwendungsnamen anzeigen"
+
+#. 3.2->settings-schema.json->show-tooltips->description
+#. 3.2->settings-schema.json->show-tooltips->tooltip
+msgid "Show tooltips"
+msgstr "Tipps zu Funktionalitäten zeigen"
+
+#. 3.2->settings-schema.json->tooltip-delay->description
+#. 3.2->settings-schema.json->tooltip-delay->tooltip
+msgid "Tooltip delay"
+msgstr "Verzögerung der Anzeige eines Tipps"
+
+#. 3.2->settings-schema.json->enable-custom-menu-height->description
+#. 3.2->settings-schema.json->enable-custom-menu-height->tooltip
+#. 4.0->settings-schema.json->enable-custom-menu-height->description
+#. 4.0->settings-schema.json->enable-custom-menu-height->tooltip
+msgid "Use a custom menu height"
+msgstr "Eine benutzerdefinierte Menühöhe einstellen"
+
+#. 3.2->settings-schema.json->custom-menu-height->units
+#. 4.0->settings-schema.json->custom-menu-height->units
+msgid "px"
+msgstr "px"
+
+#. 3.2->settings-schema.json->custom-menu-height->description
+#. 3.2->settings-schema.json->custom-menu-height->tooltip
+#. 4.0->settings-schema.json->custom-menu-height->description
+#. 4.0->settings-schema.json->custom-menu-height->tooltip
+msgid "Custom menu height"
+msgstr "Benutzerdefinierte Menü-Höhe"
+
+#. 4.0->settings-schema.json->applications-view-mode->description
+msgid "Applications view mode"
+msgstr "Anwendungsansichtsmodus"
+
+#. 4.0->settings-schema.json->applications-view-mode->tooltip
+msgid "View applications as list or grid"
+msgstr "Anzeigen von Anwendungen als Liste oder Raster"
+
+#. 4.0->settings-schema.json->description-placement->description
+msgid "Application description placement"
+msgstr "Platzierung der Anwendungsbeschreibung"
+
+#. 4.0->settings-schema.json->description-placement->options
+msgid "Tooltips"
+msgstr "Tooltips"
+
+#. 4.0->settings-schema.json->description-placement->options
+msgid "Under titles"
+msgstr "Unter Titeln"
+
+#. 4.0->settings-schema.json->description-placement->options
+msgid "None"
+msgstr "Keiner"
+
+#. 4.0->settings-schema.json->description-placement->tooltip
+msgid "Choose where to show application descriptions"
+msgstr "Wählen Sie aus, wo Anwendungsbeschreibungen angezeigt werden sollen"
+
+#. 4.0->settings-schema.json->powergroup-placement->description
+msgid "Session buttons location"
+msgstr "Position der Sitzungsschaltflächen"
+
+#. 4.0->settings-schema.json->powergroup-placement->options
+msgid "Top"
+msgstr "Oben"
+
+#. 4.0->settings-schema.json->powergroup-placement->options
+msgid "Bottom"
+msgstr "Unterseite"
+
+#. 4.0->settings-schema.json->powergroup-placement->options
+msgid "Left"
+msgstr "Links"
+
+#. 4.0->settings-schema.json->powergroup-placement->options
+msgid "Right"
+msgstr "Richtig"
+
+#. 4.0->settings-schema.json->powergroup-placement->tooltip
+msgid "Choose where to show the session (quit, logout, etc.) buttons"
+msgstr ""
+"Wählen Sie aus, wo die Schaltflächen für die Sitzung (Beenden, Abmelden "
+"usw.) angezeigt werden sollen"
+
+#. 4.0->settings-schema.json->add-favorites->description
+msgid "Add favorites to session buttons"
+msgstr "Hinzufügen von Favoriten zu Sitzungsschaltflächen"
+
+#. 4.0->settings-schema.json->add-favorites->tooltip
+msgid "Show your favorite app icons next to the session buttons"
+msgstr ""
+"Zeigen Sie Ihre bevorzugten App-Symbole neben den Sitzungsschaltflächen an"
+
+#, javascript-format
+#~ msgid "Failed to launch \"%s\""
+#~ msgstr "\"%s\" konnte nicht gestartet werden"
+
+#~ msgid "Remove from favorites"
+#~ msgstr "Aus den Favoriten entfernen"
+
+#~ msgid "Toggle recent files"
+#~ msgstr "Letzte Dateien umschalten"
+
+#~ msgid "Press this button to customize your privacy settings."
+#~ msgstr ""
+#~ "Drücken Sie diese Taste, um Ihre Datenschutzeinstellungen anzupassen."
+
+#~ msgid "Press this button to customize your menu entries."
+#~ msgstr "Diesen Knopf drücken um die Menüeinträge anzupassen."
+
+#~ msgid "Unchecking this allows the theme to set the icon"
+#~ msgstr "Durch Abwählen wird es dem Thema erlaubt, das Symbol einzustellen"
+
+#~ msgid "Icon"
+#~ msgstr "Symbol"
+
+#~ msgid "Set the custom menu button icon name"
+#~ msgstr "Den benutzerdefinierten Symbolnamen der Menütaste eingeben"
+
+#~ msgid "Enable opening the menu when the mouse enters the applet"
+#~ msgstr ""
+#~ "Öffnen des Menüs aktivieren, wenn sich die Maus auf das Applet bewegt"
+
+#~ msgid "Delay between switching categories"
+#~ msgstr "Verzögerung beim Wechsel der Kategorien"
+
+#~ msgid ""
+#~ "When enabled, category views are activated on click instead of on hover."
+#~ msgstr ""
+#~ "Wenn diese Option aktiviert ist, werden Kategorieansichten beim Klicken "
+#~ "anstelle des Hovers aktiviert."
+
+#~ msgid ""
+#~ "Choose whether or not to enable smooth autoscrolling in the application "
+#~ "list."
+#~ msgstr ""
+#~ "Legt fest, ob weicher automatischer Bildlauf in der Anwendungsliste "
+#~ "aktiviert wird."
+
+#~ msgid "Choose whether or not bookmarks are indexed in the menu."
+#~ msgstr "Auswählen, ob Lesezeichen im Menü indiziert werden sollen."
+
+#~ msgid "Choose whether or not open windows are indexed in menu searches."
+#~ msgstr ""
+#~ "Wählen Sie aus, ob geöffnete Fenster bei der Menüsuche indiziert werden "
+#~ "sollen."
+
+#~ msgid "Choose whether or not to show bookmarks and places in the menu."
+#~ msgstr "Legt fest, ob Lesezeichen und Orte im Menü angezeigt werden."
+
+#~ msgid "Choose whether or not to show icons on applications."
+#~ msgstr "Legt fest, ob Symbole an Anwendungen angezeigt werden."
+
+#~ msgid "Choose whether or not to show icons on categories."
+#~ msgstr "Legt fest, ob Symbole an Kategorien angezeigt werden."
+
+#~ msgid ""
+#~ "Choose whether or not to show the application description on the "
+#~ "application buttons."
+#~ msgstr ""
+#~ "Legt fest, ob die Anwendungsbeschreibung auf den Anwendungsknöpfen "
+#~ "angezeigt wird."
+
+#~ msgid ""
+#~ "When enabled, tooltips containing the item's name or description is shown "
+#~ "when hovered over."
+#~ msgstr ""
+#~ "Wenn diese Option aktiviert ist, werden QuickInfos mit dem Namen oder der "
+#~ "Beschreibung des Elements angezeigt, wenn Sie den Mauszeiger darüber "
+#~ "halten."
+
+#~ msgid ""
+#~ "The delay time in milliseconds for tooltips when hovering over a menu "
+#~ "item."
+#~ msgstr ""
+#~ "Die Verzögerungszeit in Millisekunden für QuickInfos beim Bewegen des "
+#~ "Mauszeigers über einen Menüpunkt."

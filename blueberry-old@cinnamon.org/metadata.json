@@ -1,0 +1,6 @@
+{
+    "description": "Blueberry old applet",
+    "uuid": "blueberry-old@cinnamon.org",
+    "name": "Bluetooth (old applet)",
+    "icon": "bluetooth"
+}
